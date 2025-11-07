@@ -161,6 +161,4 @@ Completed 5 marathons including:
 
 ### Thanks for visiting my profile!
 
-![Profile Views](https://komarev.com/ghpvc/?username=PatrickWiloak&color=58A6FF&style=flat-square&label=Profile+Views)
-
 </div>
