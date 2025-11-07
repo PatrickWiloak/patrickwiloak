@@ -65,6 +65,18 @@ My varied background has shaped my ability to solve complex technical challenges
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+## Certifications
+
+<div align="center">
+
+### 🏆 11x AWS Certified 🏆
+
+![AWS Certified](https://img.shields.io/badge/AWS-11x_Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+</div>
+
+**View all certifications on [LinkedIn](https://www.linkedin.com/in/patricklukewilson)**
+
 ## Areas of Expertise
 
 - Market Research & Data Analysis
