@@ -136,7 +136,10 @@ Completed 5 marathons including:
 - **Richmond Marathon** (3x finisher)
 - **Mohawk Hudson Marathon**
 
-*The same discipline and persistence that drives me through 26.2 miles fuels my approach to solving complex technical challenges.*
+### Competitive Gamer 🎮
+- **Formerly ranked #47 in Halo FFA** - Achieved top 50 global ranking in Free-For-All competitive play
+
+*The same discipline and persistence that drives me through 26.2 miles and competitive gaming fuels my approach to solving complex technical challenges.*
 
 ## Connect With Me
 
