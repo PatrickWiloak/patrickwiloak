@@ -2,19 +2,30 @@
 
 ## About Me
 
-I'm a passionate developer interested in building great software.
+Tech professional with extensive experience across the industry. I led the Market Research team at a startup specializing in IPv4 brokerage (2017), where my research played a critical role in addressing IPv4 exhaustion challenges. This work contributed to securing a GSA contract with the Department of Defense, providing valuable insights into large-scale infrastructure and network resource management.
 
-## Skills
+My career has been shaped by solving complex technical challenges and bridging the gap between research, business strategy, and implementation.
 
-- Languages: JavaScript, Python, Java, C++, etc.
-- Technologies: React, Node.js, Docker, etc.
-- Tools: Git, VS Code, Linux
+## Professional Experience
+
+**Market Research Team Lead** | IPv4 Brokerage Startup | 2017
+- Led market research initiatives for IPv4 address space brokerage
+- Conducted critical analysis to address IPv4 exhaustion challenges
+- Contributed to securing GSA contract with the Department of Defense
+- Bridged technical infrastructure needs with business strategy
+
+## Areas of Expertise
+
+- Network Infrastructure & IPv4/IPv6
+- Market Research & Data Analysis
+- Technical Strategy & Implementation
+- Cross-functional Team Leadership
 
 ## Current Focus
 
-- Learning new technologies
-- Contributing to open source
-- Building interesting projects
+- Exploring modern development practices
+- Building solutions for complex technical challenges
+- Continuous learning in evolving tech landscapes
 
 ## Connect With Me
 
