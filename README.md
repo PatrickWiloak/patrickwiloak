@@ -124,6 +124,14 @@ My varied background has shaped my ability to solve complex technical challenges
 
 **[View all certifications on LinkedIn](https://www.linkedin.com/in/patricklukewilson)**
 
+## Education
+
+**George Mason University**
+Bachelor of Science (B.S.), Information Systems and Operations Management
+2016 - 2018
+
+*Coursework:* Databases · Networking · Supply Chain · Forecasting · Project and Program Management · Software Development Lifecycle
+
 ## Areas of Expertise
 
 - Market Research & Data Analysis
