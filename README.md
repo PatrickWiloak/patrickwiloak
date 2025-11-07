@@ -1,4 +1,10 @@
+<div align="center">
+
 # Hi there, I'm Patrick Wiloak 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Market+Research+Team+Lead;Business+Analyst;Sales+Development+Rep;Tech+Professional;Problem+Solver)](https://git.io/typing-svg)
+
+</div>
 
 ## About Me
 
@@ -31,6 +37,30 @@ My varied background has shaped my ability to solve complex technical challenges
 - Learned to thrive in fast-paced, high-pressure environments
 - Built foundation for customer-centric approach to problem-solving
 
+## Tech Stack & Tools
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Frameworks & Runtime
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Data Analysis & BI
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ## Areas of Expertise
 
 - Market Research & Data Analysis
@@ -52,10 +82,24 @@ My varied background has shaped my ability to solve complex technical challenges
 - GitHub: [@PatrickWiloak](https://github.com/PatrickWiloak)
 - Email: patricklukewilson@gmail.com
 
-## Stats
+## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PatrickWiloak&show_icons=true&theme=radical)
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PatrickWiloak&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PatrickWiloak&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickWiloak&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+
+</div>
 
 ---
 
-Thanks for visiting my profile!
+<div align="center">
+
+### Thanks for visiting my profile!
+
+![Profile Views](https://komarev.com/ghpvc/?username=PatrickWiloak&color=58A6FF&style=flat-square&label=Profile+Views)
+
+</div>
