@@ -128,6 +128,16 @@ My varied background has shaped my ability to solve complex technical challenges
 - Building solutions for complex technical challenges
 - Continuous learning in evolving tech landscapes
 
+## Beyond Tech
+
+### Marathon Runner 🏃‍♂️
+Completed 5 marathons including:
+- **Boston Marathon 2013** - Qualified and completed the historic race
+- **Richmond Marathon** (3x finisher)
+- **Mohawk Hudson Marathon**
+
+*The same discipline and persistence that drives me through 26.2 miles fuels my approach to solving complex technical challenges.*
+
 ## Connect With Me
 
 - GitHub: [@PatrickWiloak](https://github.com/PatrickWiloak)
