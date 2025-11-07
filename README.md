@@ -136,6 +136,7 @@ Bachelor of Science (B.S.), Information Systems and Operations Management
 
 - **Cloud Computing & DevOps** (Primary Focus)
   - Multi-cloud architecture (AWS, Azure, GCP)
+  - AWS Well-Architected Framework
   - Infrastructure as Code (Terraform, AWS CDK)
   - Cloud migration and modernization
   - DevOps practices and automation
