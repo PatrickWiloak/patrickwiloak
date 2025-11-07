@@ -10,11 +10,17 @@
 
 Tech professional with a diverse career path spanning multiple industries. My journey into tech began after years in hospitality (waiter, bartender), which taught me invaluable lessons about customer service, communication, and working under pressure.
 
-In tech, I've worn many hats - from Sales Development Representative to Business Analyst, and notably as Market Research Team Lead at an IPv4 brokerage startup (2017). There, my research played a critical role in addressing IPv4 exhaustion challenges and contributed to securing a GSA contract with the Department of Defense.
+In tech, I've worn many hats - from Sales Development Representative to Business Analyst, Cloud Architect at Accenture Federal Services, and notably as Market Research Team Lead at an IPv4 brokerage startup (2017). There, my research played a critical role in addressing IPv4 exhaustion challenges and contributed to securing a GSA contract with the Department of Defense.
 
 My varied background has shaped my ability to solve complex technical challenges while bridging the gap between research, business strategy, and implementation.
 
 ## Professional Experience
+
+**Cloud Architect** | Accenture Federal Services
+- Designed and implemented cloud architecture solutions for federal clients
+- Led multi-cloud initiatives across AWS, Azure, and GCP platforms
+- Ensured compliance with federal security standards and regulations
+- Collaborated with cross-functional teams to deliver scalable cloud solutions
 
 **Market Research Team Lead** | IPv4 Brokerage Startup | 2017
 - Led market research initiatives for IPv4 address space brokerage
