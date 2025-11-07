@@ -69,9 +69,13 @@ My varied background has shaped my ability to solve complex technical challenges
 
 <div align="center">
 
-### 🏆 11x AWS Certified 🏆
+### 🏆 Multi-Cloud Certified Professional 🏆
 
 ![AWS Certified](https://img.shields.io/badge/AWS-11x_Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP Certified](https://img.shields.io/badge/GCP-2x_Certified-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure Certified](https://img.shields.io/badge/Azure-1x_Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+**14 Cloud Certifications Total**
 
 </div>
 
