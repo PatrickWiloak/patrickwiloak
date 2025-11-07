@@ -73,13 +73,43 @@ My varied background has shaped my ability to solve complex technical challenges
 
 ![AWS Certified](https://img.shields.io/badge/AWS-11x_Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP Certified](https://img.shields.io/badge/GCP-2x_Certified-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Azure Certified](https://img.shields.io/badge/Azure-1x_Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-**14 Cloud Certifications Total**
+![Azure Certified](https://img.shields.io/badge/Azure-Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 </div>
 
-**View all certifications on [LinkedIn](https://www.linkedin.com/in/patricklukewilson)**
+### AWS Certifications
+**Professional Level:**
+- AWS Certified Solutions Architect – Professional
+
+**Specialty Certifications:**
+- AWS Certified Machine Learning – Specialty
+- AWS Certified Database – Specialty
+- AWS Certified Security – Specialty
+
+**Associate Level:**
+- AWS Certified CloudOps Engineer – Associate
+- AWS Certified Machine Learning Engineer – Associate
+- AWS Certified SysOps Administrator – Associate
+- AWS Certified Developer – Associate
+- AWS Certified Solutions Architect – Associate
+
+**Foundational:**
+- AWS Certified AI Practitioner
+- AWS Certified Cloud Practitioner
+
+### Google Cloud Certifications
+- Associate Cloud Engineer
+- Cloud Digital Leader
+
+### Microsoft Azure Certifications
+- Microsoft Certified: Azure Fundamentals
+
+### Additional Certifications
+- Pragmatic Marketing Certified - Level 3
+- AWS Tech U Graduate
+- RIPE Database
+
+**[View all certifications on LinkedIn](https://www.linkedin.com/in/patricklukewilson)**
 
 ## Areas of Expertise
 
