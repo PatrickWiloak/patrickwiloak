@@ -33,6 +33,7 @@ My varied background has shaped my ability to solve complex technical challenges
 - Leveraged technical knowledge to communicate value propositions
 
 **Hospitality Professional** | Pre-Tech Career
+- Started career at age 16 at Cold Stone Creamery
 - Waiter & Bartender roles that developed strong interpersonal skills
 - Learned to thrive in fast-paced, high-pressure environments
 - Built foundation for customer-centric approach to problem-solving
