@@ -134,13 +134,16 @@ Bachelor of Science (B.S.), Information Systems and Operations Management
 
 ## Areas of Expertise
 
+- **Cloud Computing & DevOps** (Primary Focus)
+  - Multi-cloud architecture (AWS, Azure, GCP)
+  - Infrastructure as Code (Terraform, AWS CDK)
+  - Cloud migration and modernization
+  - DevOps practices and automation
 - Market Research & Data Analysis
 - Business Analysis & Requirements Gathering
 - Network Infrastructure & IPv4/IPv6
-- Sales & Business Development
 - Technical Strategy & Implementation
 - Cross-functional Team Leadership
-- Customer Relationship Management
 
 ## Current Focus
 
