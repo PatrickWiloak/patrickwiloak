@@ -2,9 +2,11 @@
 
 ## About Me
 
-Tech professional with extensive experience across the industry. I led the Market Research team at a startup specializing in IPv4 brokerage (2017), where my research played a critical role in addressing IPv4 exhaustion challenges. This work contributed to securing a GSA contract with the Department of Defense, providing valuable insights into large-scale infrastructure and network resource management.
+Tech professional with a diverse career path spanning multiple industries. My journey into tech began after years in hospitality (waiter, bartender), which taught me invaluable lessons about customer service, communication, and working under pressure.
 
-My career has been shaped by solving complex technical challenges and bridging the gap between research, business strategy, and implementation.
+In tech, I've worn many hats - from Sales Development Representative to Business Analyst, and notably as Market Research Team Lead at an IPv4 brokerage startup (2017). There, my research played a critical role in addressing IPv4 exhaustion challenges and contributed to securing a GSA contract with the Department of Defense.
+
+My varied background has shaped my ability to solve complex technical challenges while bridging the gap between research, business strategy, and implementation.
 
 ## Professional Experience
 
@@ -14,12 +16,30 @@ My career has been shaped by solving complex technical challenges and bridging t
 - Contributed to securing GSA contract with the Department of Defense
 - Bridged technical infrastructure needs with business strategy
 
+**Business Analyst** | Tech Industry
+- Analyzed business processes and technical requirements
+- Translated stakeholder needs into actionable specifications
+- Collaborated across teams to deliver solutions
+
+**Sales Development Representative** | Tech Industry
+- Developed new business opportunities and qualified leads
+- Built relationships with prospective clients
+- Leveraged technical knowledge to communicate value propositions
+
+**Hospitality Professional** | Pre-Tech Career
+- Waiter & Bartender roles that developed strong interpersonal skills
+- Learned to thrive in fast-paced, high-pressure environments
+- Built foundation for customer-centric approach to problem-solving
+
 ## Areas of Expertise
 
-- Network Infrastructure & IPv4/IPv6
 - Market Research & Data Analysis
+- Business Analysis & Requirements Gathering
+- Network Infrastructure & IPv4/IPv6
+- Sales & Business Development
 - Technical Strategy & Implementation
 - Cross-functional Team Leadership
+- Customer Relationship Management
 
 ## Current Focus
 
