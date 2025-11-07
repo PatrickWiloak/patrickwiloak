@@ -130,7 +130,7 @@ My varied background has shaped my ability to solve complex technical challenges
 Bachelor of Science (B.S.), Information Systems and Operations Management
 2016 - 2018
 
-*Coursework:* Databases · Networking · Supply Chain · Forecasting · Project and Program Management · Software Development Lifecycle
+*Coursework:* Databases · Networking · Algorithm Development · Computer Science · Supply Chain · Forecasting · Project and Program Management · Software Development Lifecycle
 
 ## Areas of Expertise
 
