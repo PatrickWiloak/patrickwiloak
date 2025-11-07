@@ -17,6 +17,7 @@ My varied background has shaped my ability to solve complex technical challenges
 ## Professional Experience
 
 **Solutions Architect** | Amazon Web Services (AWS) | 3.5 years
+- **Received Quarterly All Star Award for Customer Obsession** (top 1% of field)
 - Provided technical guidance and architectural best practices to enterprise customers
 - Designed and implemented scalable, resilient cloud solutions on AWS platform
 - Partnered with customers to accelerate cloud adoption and digital transformation
