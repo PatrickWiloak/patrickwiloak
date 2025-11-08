@@ -16,10 +16,11 @@ From building RAG PoCs and driving multiple GenAI Competencies in <90 days, to l
 
 ## Professional Experience
 
-**Founder** | Nobler Works LLC | July 2025 – Present
+**Founder** | Nobler Works | September 2024 – Present
 - Building SaaS products and offering consulting services for cloud architecture and AI/ML solutions
 - Providing pro bono consulting for non-profit organizations
 - Specializing in GenAI implementations, cloud modernization, and full-stack development
+- *"Noble" as defined by Dante in Convivio and The Divine Comedy - demonstrated through virtuous action and excellence in work*
 
 **Solutions Architect II, WWPS Federal Partners** | Amazon Web Services (AWS) | July 2024 – July 2025
 - **Awarded Quarterly All-Star Award in Q1 2024** (top ~1% of field) for customer obsession
