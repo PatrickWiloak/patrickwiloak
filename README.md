@@ -14,7 +14,7 @@ Solutions Architect and AI/ML specialist with 3.5 years at Amazon Web Services, 
 
 My path to tech wasn't traditional - I worked as a substitute teacher, UPS package handler, and at a bowling alley/bar before breaking into technology. That grind taught me work ethic, persistence, and how to communicate with all types of people. Since entering tech, I've specialized in helping federal partners and Fortune 100 customers architect scalable cloud solutions, with particular expertise in AI/ML, GenAI (Amazon Bedrock, SageMaker), and cloud migration.
 
-From building RAG PoCs and driving multiple GenAI Competencies in <90 days, to leading market research that contributed to a $500B+ IPv4 transfer market and securing DoD GSA contracts, my varied background has shaped my ability to solve complex technical challenges while bridging the gap between cutting-edge technology and business outcomes.
+From building RAG PoCs and driving multiple GenAI Competencies in <90 days, to leading market research that contributed to a $500B+ IPv4 transfer market and led to a GSA with DoD, my varied background has shaped my ability to solve complex technical challenges while bridging the gap between cutting-edge technology and business outcomes.
 
 ## Professional Experience
 
@@ -48,10 +48,10 @@ From building RAG PoCs and driving multiple GenAI Competencies in <90 days, to l
 - Designed cloud architecture solutions for federal clients ensuring compliance with federal security standards
 
 **Market Research Team Lead** | Addrex, Inc. | April 2017 – October 2020
-- Built IPv4 inventory system across 5 Regional Internet Registries (RIRs); supported DoD & Fortune 100 deals
+- Managed CRM and analyzed IPv4 blocks across 5 Regional Internet Registries (RIRs); supported Fortune 100 deals
 - Delivered detailed reports on IPv4 inventory and attributes; early research contributed to $500B+ IPv4 transfer market
-- Standardized chain-of-custody processes; helped secure DoD GSA contract
-- Led cross-functional collaboration (research, sales, legal, outreach, engineering); delivered project 1 full year ahead of schedule
+- Standardized chain-of-custody processes; supported research that led to GSA with DoD
+- Worked across tech team, research team, outreach team, and c-suite; delivered on objectives years ahead of schedule
 
 ## Technical Skills
 
@@ -101,15 +101,11 @@ From building RAG PoCs and driving multiple GenAI Competencies in <90 days, to l
 
 ## Certifications
 
-<div align="center">
-
 ### 🏆 Multi-Cloud Certified Professional 🏆
 
 ![AWS Certified](https://img.shields.io/badge/AWS-11x_Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP Certified](https://img.shields.io/badge/GCP-3x_Certified-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Azure Certified](https://img.shields.io/badge/Azure-Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-</div>
 
 ### AWS Certifications
 **Professional Level:**
@@ -148,11 +144,10 @@ From building RAG PoCs and driving multiple GenAI Competencies in <90 days, to l
 
 **George Mason University** | May 2018
 Bachelor of Science - Information Systems and Operations Management (ISOM)
-*(started at JMU as a CS major, transferred to GMU and finished as ISOM)*
 
 *Coursework:* Databases · Networking · Algorithm Development · Computer Science · Supply Chain · Forecasting · Project and Program Management · Software Development Lifecycle · Accounting · Business Law
 
-GMU is often called "the commuter school" because everyone has jobs - students and faculty alike. Many professors are adjuncts with real-world experience, not the traditional academic types. That practical, hands-on approach set my foundation, but my real education came from grinding it out in the field, getting certifications, and learning on the job.
+GMU is often called "the commuter school" because most folks have jobs - students and faculty alike. Many professors are adjuncts with real-world experience, not the traditional academic types. That practical, hands-on approach set my foundation, but my real education came from grinding it out in the field, getting certifications, and learning on the job.
 
 ## Areas of Expertise
 
@@ -181,13 +176,6 @@ GMU is often called "the commuter school" because everyone has jobs - students a
   - Multi-partner workshops and events facilitation
   - Content curation and thought leadership
 
-## Current Focus
-
-- Advancing AI/ML expertise with hands-on GenAI implementations
-- Building production-grade cloud solutions with modern IaC practices
-- Exploring emerging technologies in cloud computing and artificial intelligence
-- Contributing to the AWS technical community through blog posts and thought leadership
-
 ## Beyond Tech
 
 ### Marathon Runner 🏃‍♂️
@@ -211,18 +199,12 @@ Completed 5 marathons including:
 
 ## GitHub Activity
 
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PatrickWiloak&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickWiloak&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
-</div>
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile!
+**Connect:** [GitHub](https://github.com/PatrickWiloak) • [LinkedIn](https://www.linkedin.com/in/patricklukewilson) • [Email](mailto:patricklukewilson@gmail.com)
 
 </div>
