@@ -2,8 +2,6 @@
 
 ![Banner](banner.jpg)
 
-# Hi there, I'm Patrick Wiloak 👋
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=500&duration=3000&color=00FF00&center=true&vCenter=true&width=800&lines=Previously+at+AWS+(Solutions+Architect);Full+Stack+Developer;Expertise+in+GenAI+and+traditional+ML;Multi+Cloud+Architect;Problem+Solver)](https://git.io/typing-svg)
 
 </div>
