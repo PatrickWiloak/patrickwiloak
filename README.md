@@ -209,6 +209,6 @@ Completed 5 marathons including:
 
 <div align="center">
 
-**Connect:** [Portfolio](https://patrickwiloak.com) • [NobleRworks LLC](https://noblerworks.com) • [LinkedIn](https://www.linkedin.com/in/patricklukewilson)
+**Connect:** [Portfolio](https://patrickwiloak.com) • [Nobler Works](https://noblerworks.com) • [LinkedIn](https://www.linkedin.com/in/patricklukewilson)
 
 </div>
