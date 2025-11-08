@@ -16,6 +16,11 @@ From building RAG PoCs and driving multiple GenAI Competencies in <90 days, to l
 
 ## Professional Experience
 
+**Founder** | Nobler Works LLC | July 2025 – Present
+- Building SaaS products and offering consulting services for cloud architecture and AI/ML solutions
+- Providing pro bono consulting for non-profit organizations
+- Specializing in GenAI implementations, cloud modernization, and full-stack development
+
 **Solutions Architect II, WWPS Federal Partners** | Amazon Web Services (AWS) | July 2024 – July 2025
 - **Awarded Quarterly All-Star Award in Q1 2024** (top ~1% of field) for customer obsession
 - Dedicated SA for 14 Federal partners supporting DoD, IC, Army, Navy contracts covering ~$100M+ in ARR
@@ -203,6 +208,6 @@ Completed 5 marathons including:
 
 <div align="center">
 
-**Connect:** [GitHub](https://github.com/PatrickWiloak) • [LinkedIn](https://www.linkedin.com/in/patricklukewilson) • [Email](mailto:patricklukewilson@gmail.com)
+**Connect:** [Portfolio](https://patrickwiloak.com) • [NobleRworks LLC](https://noblerworks.com) • [LinkedIn](https://www.linkedin.com/in/patricklukewilson)
 
 </div>
