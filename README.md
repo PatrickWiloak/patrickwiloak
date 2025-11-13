@@ -45,16 +45,26 @@ From building RAG PoCs and driving multiple GenAI Competencies in <90 days, to l
 - Automated post-event email workflows used in 45+ customer engagements
 - Authored internal post-event GenAI Opportunity Acceleration runbooks
 - Hosted certification academies and onboarding programs for new Solutions Architects
+- Ran certification exam prep lectures for AWS colleagues including Solutions Architects, sales executives, and LDRs
 - Published blog post: *Query Heterogeneous Data Sources through AWS AppSync GraphQL APIs* (2023)
 
 **Cloud Architect** | Accenture Federal Services | December 2021 – January 2022
 - Supported Affordable Care Act modernization efforts
 - Designed cloud architecture solutions for federal clients ensuring compliance with federal security standards
 
+**Business Analyst** | SingleStone Consulting | April 2021 – June 2021
+- Scoped and led product design for VCU School of Nursing application to plan coursework and faculty schedules
+- Built user stories, gathered requirements, designed test scenarios, and ran client demos throughout full SDLC
+- Worked with agile team to update existing application with additional features and configurable options
+- Participated in scrum meetings and delivered product enhancements in remote consulting environment
+
 **Market Research Team Lead** | Addrex, Inc. | April 2017 – October 2020
-- Managed CRM and analyzed IPv4 blocks across 5 Regional Internet Registries (RIRs); supported Fortune 100 deals
-- Delivered detailed reports on IPv4 inventory and attributes; early research contributed to $500B+ IPv4 transfer market
-- Standardized chain-of-custody processes; supported research that led to GSA with DoD
+- Managed internally hosted and maintained CRM (discontinued fork of SugarCRM) and conducted highly detailed-oriented analysis of IPv4 blocks across 5 Regional Internet Registries (RIRs); supported Fortune 100 deals
+- Created analytical reports covering BGP announcements and reputation analysis for all IPv4 CIDR blocks; early research contributed to $500B+ IPv4 transfer market
+- Established and standardized legal chain-of-custody processes for all legacy IPv4 assets in ARIN and RIPE (full completion), with partial completion in APNIC, LACNIC, and AFRINIC; supported research that led to GSA with DoD
+- Collaborated with tech team to release new CRM tools and features that accelerated research capabilities
+- Provided research and sales ops insights to tech team for neural network input selection (2018), demonstrating early involvement in ML applications
+- Interviewed and selected candidates for team positions; advocated for and helped secure team raises
 - Worked across tech team, research team, outreach team, and c-suite; delivered on objectives years ahead of schedule
 
 ## Technical Skills
