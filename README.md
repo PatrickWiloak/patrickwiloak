@@ -137,6 +137,7 @@ From building RAG PoCs and driving multiple GenAI Competencies in <90 days, to l
 - Generative AI Leader
 
 ### Microsoft Azure Certifications
+- Microsoft Certified: Azure AI Fundamentals
 - Microsoft Certified: Azure Fundamentals
 
 ### Additional Certifications
