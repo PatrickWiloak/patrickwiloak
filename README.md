@@ -8,218 +8,58 @@
 
 ## About Me
 
-Solutions Architect and AI/ML specialist with 3.5 years at Amazon Web Services, where I drove millions in revenue through GenAI enablement and cloud modernization. Awarded Quarterly All-Star Award (top ~1% of field) for customer obsession in Q1 2024.
+Solutions Architect and AI/ML specialist with 3.5 years at AWS, awarded Q1 2024 All-Star (top ~1%). Now building SaaS products at [Nobler Works](https://noblerworks.com).
 
-My path to tech wasn't traditional - I worked as a substitute teacher, UPS package handler, and at a bowling alley/bar before breaking into technology. That grind taught me work ethic, persistence, and how to communicate with all types of people. Since entering tech, I've specialized in helping federal partners and Fortune 100 customers architect scalable cloud solutions, with particular expertise in AI/ML, GenAI (Amazon Bedrock, SageMaker), and cloud migration.
+**Highlights:** Production RAG PoCs • GenAI Competencies in <90 days • 15 cloud certs • $500B+ IPv4 market research
 
-From building RAG PoCs and driving multiple GenAI Competencies in <90 days, to leading market research that contributed to a $500B+ IPv4 transfer market and led to a GSA with DoD, my varied background has shaped my ability to solve complex technical challenges while bridging the gap between cutting-edge technology and business outcomes.
+## Experience
 
-## Professional Experience
+**Founder** | Nobler Works | Sept 2024 – Present
+SaaS products and consulting on cloud architecture, AI/ML, GenAI.
 
-**Founder** | Nobler Works | September 2024 – Present
-- Building SaaS products and offering consulting services for cloud architecture and AI/ML solutions
-- Providing pro bono consulting for non-profit organizations
-- Specializing in GenAI implementations, cloud modernization, and full-stack development
-- *"Noble" as defined by Dante in Convivio and The Divine Comedy - demonstrated through virtuous action and excellence in work*
+**Solutions Architect II** | AWS | Jan 2022 – Jul 2025
+- Supported 14 Federal partners (~$100M+ ARR); production RAG PoCs
+- Reduced FSx costs by 88%; migrated 40TB to S3; cut storage costs by 20%
+- Published: *Using task-specific models from AI21 Labs on AWS*
 
-**Solutions Architect II, WWPS Federal Partners** | Amazon Web Services (AWS) | July 2024 – July 2025
-- **Awarded Quarterly All-Star Award in Q1 2024** (top ~1% of field) for customer obsession
-- Dedicated SA for 14 Federal partners supporting DoD, IC, Army, Navy contracts covering ~$100M+ in ARR
-- **GenAI Leadership:**
-  - Influenced $3M+ pipeline through GenAI enablement (Amazon Bedrock, SageMaker)
-  - Built production-ready RAG PoCs using Bedrock, OpenSearch Vector Stores, and SageMaker endpoints
-  - Co-led GenAI program for Fortune 100 customers, driving multiple GenAI Competencies in <90 days
-- **Cloud Modernization & Cost Optimization:**
-  - Drove GovCloud Competency achievement in <90 days for strategic partner, unlocking millions in revenue
-  - Migrated 40TB of on-prem data to S3 via Snowball Edge; designed script that cut storage costs by 20%
-  - Reduced FSx for Windows spend by 88% through modernization efforts
-- **Technical Leadership:**
-  - Supported specialist-level AI/ML engagements as member of AWS Machine Learning Technical Field Community (TFC)
-  - Led dozens of Well-Architected Reviews and competency reviews
-  - Published blog post: *Using task-specific models from AI21 Labs on AWS* (2024)
+**Cloud Architect** | Accenture Federal Services | Dec 2021 – Jan 2022
 
-**Solutions Architect I** | Amazon Web Services (AWS) | January 2022 – July 2024
-- Technical advisor for partners and customers across Public Sector
-- Early adopter of Amazon Bedrock (2023); built rapid RAG prototypes and delivered at multiple partner/customer events
-- Continuously curated and updated GenAI content for partners and customers
-- Automated post-event email workflows used in 45+ customer engagements
-- Authored internal post-event GenAI Opportunity Acceleration runbooks
-- Hosted certification academies and onboarding programs for new Solutions Architects
-- Ran certification exam prep lectures for AWS colleagues including Solutions Architects, sales executives, and LDRs
-- Published blog post: *Query Heterogeneous Data Sources through AWS AppSync GraphQL APIs* (2023)
+**Market Research Team Lead** | Addrex, Inc. | Apr 2017 – Oct 2020
+Early research contributed to $500B+ IPv4 transfer market and GSA with DoD.
 
-**Cloud Architect** | Accenture Federal Services | December 2021 – January 2022
-- Supported Affordable Care Act modernization efforts
-- Designed cloud architecture solutions for federal clients ensuring compliance with federal security standards
+## Tech Stack
 
-**Business Analyst** | SingleStone Consulting | April 2021 – June 2021
-- Scoped and led product design for VCU School of Nursing application to plan coursework and faculty schedules
-- Built user stories, gathered requirements, designed test scenarios, and ran client demos throughout full SDLC
-- Worked with agile team to update existing application with additional features and configurable options
-- Participated in scrum meetings and delivered product enhancements in remote consulting environment
-
-**Market Research Team Lead** | Addrex, Inc. | April 2017 – October 2020
-- Managed internally hosted and maintained CRM (discontinued fork of SugarCRM) and conducted highly detailed-oriented analysis of IPv4 blocks across 5 Regional Internet Registries (RIRs); supported Fortune 100 deals
-- Created analytical reports covering BGP announcements and reputation analysis for all IPv4 CIDR blocks; early research contributed to $500B+ IPv4 transfer market
-- Established and standardized legal chain-of-custody processes for all legacy IPv4 assets in ARIN and RIPE (full completion), with partial completion in APNIC, LACNIC, and AFRINIC; supported research that led to GSA with DoD
-- Collaborated with tech team to release new CRM tools and features that accelerated research capabilities
-- Provided research and sales ops insights to tech team for neural network input selection (2018), demonstrating early involvement in ML applications
-- Interviewed and selected candidates for team positions; advocated for and helped secure team raises
-- Worked across tech team, research team, outreach team, and c-suite; delivered on objectives years ahead of schedule
-
-## Technical Skills
-
-### AI & Machine Learning
-![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
-![SageMaker](https://img.shields.io/badge/Amazon_SageMaker-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
-![Amazon Q](https://img.shields.io/badge/Amazon_Q-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
-- **LLMs & GenAI:** Claude, Titan, Meta, Anthropic models on Bedrock
-- **ML Techniques:** RAG (Retrieval-Augmented Generation), Vector Databases, Prompt Engineering
-- **AI Applications:** Conversational AI Chatbots, Amazon Connect integration
-
-### Cloud Architecture & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![AWS CDK](https://img.shields.io/badge/AWS_CDK-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-- **IaC & Automation:** CloudFormation, Terraform, AWS CDK, Lambda, CI/CD
-- **Compute & Containers:** ECS, EKS, Docker, Kubernetes
-- **Networking:** VPC, Subnets, VPC Peering, Transit Gateway, PrivateLink, Route53, CloudFront
-- **Monitoring:** CloudWatch, observability best practices
-
-### Languages & Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-- **APIs:** REST, GraphQL (AWS AppSync)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
-### Data & Analytics
-![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![Redshift](https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white)
-![QuickSight](https://img.shields.io/badge/Amazon_QuickSight-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
-- **Data Services:** Kinesis, AWS Glue, Athena, Redshift, QuickSight, ETL Pipelines, Data Lakes
-- **Databases:** RDS (PostgreSQL, MySQL), DynamoDB, MongoDB, OpenSearch (Vector Stores)
-- **Storage & Migration:** S3, Snowball Edge, data migration strategies
-
-### Security & Compliance
-![AWS Security](https://img.shields.io/badge/AWS_Security-DD344C?style=for-the-badge&logo=amazon&logoColor=white)
-- **Frameworks:** FedRAMP, SOC2, HIPAA, PCI-DSS, Zero Trust
-- **Services:** IAM, Security Hub, GuardDuty, KMS, Secrets Manager
-- **Governance:** AWS GovCloud, federal compliance standards
+**Specialties:** GenAI (Bedrock, SageMaker) • RAG Architecture • Vector Databases • IaC (Terraform, CDK) • Kubernetes • Federal Compliance (FedRAMP, HIPAA)
 
 ## Certifications
 
-### 🏆 Multi-Cloud Certified Professional 🏆
-
 ![AWS Certified](https://img.shields.io/badge/AWS-11x_Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP Certified](https://img.shields.io/badge/GCP-3x_Certified-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Azure Certified](https://img.shields.io/badge/Azure-Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Certified](https://img.shields.io/badge/Azure-2x_Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-### AWS Certifications
-**Professional Level:**
-- AWS Certified Solutions Architect – Professional
+**AWS:** SA Pro • ML • Database • Security • 7 more | **GCP:** Cloud Engineer • Digital Leader • GenAI Leader | **Azure:** AI & Azure Fundamentals
 
-**Specialty Certifications:**
-- AWS Certified Machine Learning – Specialty
-- AWS Certified Database – Specialty
-- AWS Certified Security – Specialty
+[View all →](https://www.linkedin.com/in/patricklukewilson) | **GMU** BS - ISOM '18
 
-**Associate Level:**
-- AWS Certified CloudOps Engineer – Associate
-- AWS Certified Machine Learning Engineer – Associate
-- AWS Certified SysOps Administrator – Associate
-- AWS Certified Developer – Associate
-- AWS Certified Solutions Architect – Associate
+## Fun Facts
 
-**Foundational:**
-- AWS Certified AI Practitioner
-- AWS Certified Cloud Practitioner
-
-### Google Cloud Certifications
-- Associate Cloud Engineer
-- Cloud Digital Leader
-- Generative AI Leader
-
-### Microsoft Azure Certifications
-- Microsoft Certified: Azure AI Fundamentals
-- Microsoft Certified: Azure Fundamentals
-
-### Additional Certifications
-- Pragmatic Institute: Pragmatic Marketing Certified - Level 3
-
-**[View all certifications on LinkedIn](https://www.linkedin.com/in/patricklukewilson)**
-
-## Education
-
-**George Mason University** | May 2018
-Bachelor of Science - Information Systems and Operations Management (ISOM)
-
-*Coursework:* Databases · Networking · Algorithm Development · Computer Science · Supply Chain · Forecasting · Project and Program Management · Software Development Lifecycle · Accounting · Business Law
-
-GMU is often called "the commuter school" because most folks have jobs - students and faculty alike. Many professors are adjuncts with real-world experience, not the traditional academic types. That practical, hands-on approach set my foundation, but my real education came from grinding it out in the field, getting certifications, and learning on the job.
-
-## Areas of Expertise
-
-- **AI & Machine Learning** (Primary Focus)
-  - Generative AI (Amazon Bedrock, Claude, Titan, Meta models, DeepSeek, Llama)
-  - RAG (Retrieval-Augmented Generation) architecture
-  - Amazon SageMaker, Vector Databases (OpenSearch, S3 Vectors)
-  - Conversational AI and chatbots
-  - Prompt engineering and LLM optimization
-- **Cloud Architecture & Modernization**
-  - Multi-cloud solutions (AWS, Azure, GCP)
-  - AWS Well-Architected Framework
-  - Infrastructure as Code (Terraform, AWS CDK, CloudFormation)
-  - Cloud migration strategies and modernization
-  - Cost optimization and FinOps
-- **Federal & Enterprise Solutions**
-  - FedRAMP, HIPAA, PCI-DSS, SOC2 compliance
-  - AWS GovCloud architecture (including partners operating in S, TS regions)
-  - DoD and Intelligence Community requirements
-  - Partner enablement and competency development
-- **Technical Strategy & Leadership**
-  - Solutions enablement and GTM strategy
-  - Cross-functional team collaboration
-  - Technical discovery and live demos
-  - Data analysis and market research
-  - Multi-partner workshops and events facilitation
-  - Content curation and thought leadership
-
-## Beyond Tech
-
-### Marathon Runner 🏃‍♂️
-Completed 5 marathons including:
-- **Boston Marathon 2013** (fortunate to be able to finish the race that day with big brother) #BostonStrong
-- **Richmond Marathon** (3x finisher)
-- **Mohawk Hudson Marathon** (didn't realize how beautiful upstate NY is)
-- **Lake Erie Marathon** (dropped out, but my friend finished!)
-
-### Competitive Gamer 🎮
-- **Formerly ranked #47 in Halo FFA** - Achieved top 50 global ranking in Free-For-All competitive play
-- **Level 50 in Halo 2 and Halo 3**
-- **Halo 1** - Grew up playing online with Xbox Connect (tunneling software that tricked the Xbox into thinking you were on a LAN) before Xbox Live existed
-
-*The same discipline and persistence that drives me through 26.2 miles and competitive gaming fuels my approach to solving complex technical challenges.*
-
-## Connect With Me
-
-- GitHub: [@PatrickWiloak](https://github.com/PatrickWiloak)
-- Email: patricklukewilson@gmail.com
-
-## GitHub Activity
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickWiloak&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+🏃‍♂️ **5x Marathon Finisher** including Boston 2013 #BostonStrong
+🎮 **Former #47 Global Halo FFA** • Level 50 in Halo 2 & 3
 
 ---
 
 <div align="center">
 
-**Connect:** [Portfolio](https://patrickwiloak.com) • [Nobler Works](https://noblerworks.com) • [LinkedIn](https://www.linkedin.com/in/patricklukewilson)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickWiloak&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+
+**Connect:** [Portfolio](https://patrickwiloak.com) • [Nobler Works](https://noblerworks.com) • [LinkedIn](https://www.linkedin.com/in/patricklukewilson) • [GitHub](https://github.com/PatrickWiloak)
 
 </div>
