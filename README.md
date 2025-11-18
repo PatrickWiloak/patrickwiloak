@@ -8,13 +8,19 @@
 
 ## About Me
 
-Solutions Architect & AI/ML specialist. 3.5 years at AWS (Q1 2024 All-Star). Now building at [Nobler Works](https://noblerworks.com).
+Solutions Architect & AI/ML specialist with 3.5 years at AWS (Q1 2024 All-Star). Now building at [Nobler Works](https://noblerworks.com).
 
-**Recent:** Production RAG systems • GenAI competencies • 15 cloud certs
+**Highlights**
+- Production RAG systems
+- GenAI competencies
+- 16x multi-cloud certifications
 
-**Experience:** AWS SA II '22-'25 • Accenture Fed '21 • Addrex '17-'20
+**Experience**
+- **AWS** - Solutions Architect II, 2022-2025
+- **Accenture Federal Services** - Cloud Architect, 2021
+- **Addrex, Inc.** - Market Research Team Lead, 2017-2020
 
-## Stack & Certs
+## Tech Stack
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
@@ -23,11 +29,31 @@ Solutions Architect & AI/ML specialist. 3.5 years at AWS (Q1 2024 All-Star). Now
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
-**Focus:** GenAI (Bedrock, SageMaker) • RAG • Vector DBs • IaC • K8s • Federal Compliance
+**Specialties:** GenAI (Bedrock, SageMaker) • RAG Architecture • Vector Databases • IaC (Terraform, CDK) • Kubernetes • Federal Compliance (FedRAMP, HIPAA)
 
-**Certs:** AWS 11x (SA Pro, ML, DB, Security) • GCP 3x • Azure 2x • [Full list →](https://www.linkedin.com/in/patricklukewilson)
+## Certifications
 
-**Misc:** 🏃‍♂️ Boston Marathon '13 • 🎮 Top 50 Halo FFA • 🎓 George Mason University BS - Information Systems and Ops Management '18
+![AWS Certified](https://img.shields.io/badge/AWS-11x_Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP Certified](https://img.shields.io/badge/GCP-3x_Certified-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure Certified](https://img.shields.io/badge/Azure-2x_Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+**AWS:** Solutions Architect Professional • Machine Learning Specialty • Database Specialty • Security Specialty • 7 more
+
+**GCP:** Associate Cloud Engineer • Cloud Digital Leader • Generative AI Leader
+
+**Azure:** AI Fundamentals • Azure Fundamentals
+
+[View all certifications →](https://www.linkedin.com/in/patricklukewilson)
+
+## Education
+
+**George Mason University** | Bachelor of Science - Information Systems and Operations Management | 2018
+
+## Fun Facts
+
+🏃‍♂️ **5x Marathon Finisher** including Boston Marathon 2013 #BostonStrong
+
+🎮 **Former #47 Global Halo FFA** • Level 50 in Halo 2 & 3
 
 ---
 
