@@ -53,7 +53,7 @@ Solutions Architect & AI/ML specialist with 3.5 years at AWS (Q1 2024 All-Star).
 
 🏃‍♂️ **5x Marathon Finisher** including Boston Marathon 2013 #BostonStrong
 
-🎮 **Former #47 Global Halo FFA** • Level 50 in Halo 2 & 3
+🎮 **Former #48 Global Halo FFA** • Level 50 in Halo 2 & 3
 
 ---
 
