@@ -8,12 +8,9 @@
 
 ## About Me
 
-Enterprise Engineer at [Strategic Communications](https://strategiccomms.com). Previously Solutions Architect at AWS (Q1 2024 All-Star, 3.5 years).
+Enterprise Engineer at Strategic Communications, working across contracting, pre-sales, post-sales, consulting, and product development. Previously a Solutions Architect at AWS for 3.5 years (Q1 2024 All-Star), where I specialized in GenAI, ML, and cloud architecture for enterprise and public sector customers. I hold 15 multi-cloud certifications across AWS, GCP, and Azure, and I have hands-on experience building production RAG systems, designing scalable infrastructure, and leading technical engagements from initial scoping through delivery.
 
-**Highlights**
-- Production RAG systems
-- GenAI competencies
-- 15x multi-cloud certifications
+Before AWS, I served as a Cloud Architect at Accenture Federal Services and led a market research team at Addrex, Inc. I studied Information Systems and Operations Management at George Mason University.
 
 **Experience**
 - **Strategic Communications** - Enterprise Engineer, 2025-Present
