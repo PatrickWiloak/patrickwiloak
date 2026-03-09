@@ -8,14 +8,15 @@
 
 ## About Me
 
-Solutions Architect & AI/ML specialist with 3.5 years at AWS (Q1 2024 All-Star). Now building at [Nobler Works](https://noblerworks.com).
+Enterprise Engineer at [Strategic Communications](https://strategiccomms.com). Previously Solutions Architect at AWS (Q1 2024 All-Star, 3.5 years).
 
 **Highlights**
 - Production RAG systems
 - GenAI competencies
-- 16x multi-cloud certifications
+- 15x multi-cloud certifications
 
 **Experience**
+- **Strategic Communications** - Enterprise Engineer, 2025-Present
 - **AWS** - Solutions Architect II, 2022-2025
 - **Accenture Federal Services** - Cloud Architect, 2021
 - **Addrex, Inc.** - Market Research Team Lead, 2017-2020
@@ -61,6 +62,6 @@ Solutions Architect & AI/ML specialist with 3.5 years at AWS (Q1 2024 All-Star).
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickWiloak&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
 
-**Connect:** [Portfolio](https://patrickwiloak.com) • [Nobler Works](https://noblerworks.com) • [LinkedIn](https://www.linkedin.com/in/patricklukewilson) • [GitHub](https://github.com/PatrickWiloak)
+**Connect:** [Portfolio](https://patrickwiloak.com) • [LinkedIn](https://www.linkedin.com/in/patricklukewilson) • [GitHub](https://github.com/PatrickWiloak)
 
 </div>
