@@ -11,7 +11,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/patrickwiloak)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@patrickwiloak)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=500&duration=3000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Previously+at+AWS+(Solutions+Architect);Full+Stack+Developer;Cloud+%2B+AI+%2B+Data+%2B+Security;Multi+Cloud+Architect;Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=500&duration=3000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Previously+at+AWS+(Solutions+Architect);Full+Stack+Developer;Product+Developer;Cloud+%2B+AI+%2B+Data+%2B+Security;MLOps+Practitioner;Multi+Cloud+Architect;Problem+Solver)](https://git.io/typing-svg)
 
 </div>
 
