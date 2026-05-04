@@ -1,8 +1,6 @@
 <div align="center">
 
-![Banner](banner.jpg)
-
-<a href="https://noblerworks.com/"><img src="https://raw.githubusercontent.com/NoblerWorks-HQ/IRONSIGHT/main/nobler-works-banner.JPG" alt="Nobler Works" width="400"></a>
+<a href="https://noblerworks.com/"><img src="https://raw.githubusercontent.com/NoblerWorks-HQ/IRONSIGHT/main/nobler-works-banner.JPG" alt="Nobler Works" width="800"></a>
 
 ### CEO @ [Nobler Works](https://noblerworks.com/)
 
