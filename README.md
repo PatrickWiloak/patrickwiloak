@@ -11,13 +11,13 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/patrickwiloak)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@patrickwiloak)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=500&duration=3000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Previously+at+AWS+(Solutions+Architect);Full+Stack+Developer;Expertise+in+GenAI+and+traditional+ML;Multi+Cloud+Architect;Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=500&duration=3000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Previously+at+AWS+(Solutions+Architect);Full+Stack+Developer;Cloud+%2B+AI+%2B+Data+%2B+Security;Multi+Cloud+Architect;Problem+Solver)](https://git.io/typing-svg)
 
 </div>
 
 ## About Me
 
-Enterprise Engineer at Strategic Communications, working across contracting, pre-sales, post-sales, consulting, and product development. Previously a Solutions Architect at AWS for 3.5 years (Q1 2024 All-Star), where I specialized in GenAI, ML, and cloud architecture for enterprise and public sector customers. I hold 15 multi-cloud certifications across AWS, GCP, and Azure, and I have hands-on experience building production RAG systems, designing scalable infrastructure, and leading technical engagements from initial scoping through delivery.
+Enterprise Engineer at Strategic Communications, working across contracting, pre-sales, post-sales, consulting, and product development. Previously a Solutions Architect at AWS for 3.5 years (Q1 2024 All-Star), where I specialized in cloud, AI, data, and security for enterprise and public sector customers. I hold 15 multi-cloud certifications across AWS, GCP, and Azure, and I have hands-on experience building production RAG systems, designing scalable infrastructure, and leading technical engagements from initial scoping through delivery.
 
 Before AWS, I served as a Cloud Architect at Accenture Federal Services and led a market research team at Addrex, Inc. I studied Information Systems and Operations Management at George Mason University.
 
