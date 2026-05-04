@@ -57,12 +57,13 @@ Before AWS, I served as a Cloud Architect at Accenture Federal Services and led 
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickWiloak&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
-<a href="https://noblerworks.com/"><img src="https://raw.githubusercontent.com/Noblerworks/IRONSIGHT/main/nobler-works-banner.JPG" alt="Nobler Works" width="400"></a>
+<a href="https://noblerworks.com/"><img src="https://raw.githubusercontent.com/NoblerWorks-HQ/IRONSIGHT/main/nobler-works-banner.JPG" alt="Nobler Works" width="400"></a>
 
 ### CEO @ [Nobler Works](https://noblerworks.com/)
 
-**Connect:** [Portfolio](https://patrickwiloak.com) • [LinkedIn](https://www.linkedin.com/in/patricklukewilson) • [GitHub](https://github.com/PatrickWiloak)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://patrickwiloak.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patricklukewilson)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PatrickWiloak)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/PatrickWiloak)
 
 </div>
