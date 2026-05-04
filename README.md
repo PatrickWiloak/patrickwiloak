@@ -2,6 +2,17 @@
 
 ![Banner](banner.jpg)
 
+<a href="https://noblerworks.com/"><img src="https://raw.githubusercontent.com/NoblerWorks-HQ/IRONSIGHT/main/nobler-works-banner.JPG" alt="Nobler Works" width="400"></a>
+
+### CEO @ [Nobler Works](https://noblerworks.com/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://patrickwiloak.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patricklukewilson)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PatrickWiloak)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/PatrickWiloak)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/patrickwiloak)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@patrickwiloak)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=500&duration=3000&color=00FF00&center=true&vCenter=true&width=800&lines=Previously+at+AWS+(Solutions+Architect);Full+Stack+Developer;Expertise+in+GenAI+and+traditional+ML;Multi+Cloud+Architect;Problem+Solver)](https://git.io/typing-svg)
 
 </div>
@@ -52,20 +63,3 @@ Before AWS, I served as a Cloud Architect at Accenture Federal Services and led 
 🏃‍♂️ **5x Marathon Finisher** including Boston Marathon 2013 #BostonStrong
 
 🎮 **Former #48 Global Halo FFA** • Level 50 in Halo 2 & 3
-
----
-
-<div align="center">
-
-<a href="https://noblerworks.com/"><img src="https://raw.githubusercontent.com/NoblerWorks-HQ/IRONSIGHT/main/nobler-works-banner.JPG" alt="Nobler Works" width="400"></a>
-
-### CEO @ [Nobler Works](https://noblerworks.com/)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://patrickwiloak.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patricklukewilson)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PatrickWiloak)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/PatrickWiloak)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/patrickwiloak)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@patrickwiloak)
-
-</div>
