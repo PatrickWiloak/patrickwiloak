@@ -17,7 +17,7 @@
 
 ## About Me
 
-Enterprise Engineer at Strategic Communications, working across contracting, pre-sales, post-sales, consulting, and product development. Previously a Solutions Architect at AWS for 3.5 years (Q1 2024 All-Star), where I specialized in cloud, AI, data, and security for enterprise and public sector customers. I hold 15 multi-cloud certifications across AWS, GCP, and Azure, and I have hands-on experience building production RAG systems, designing scalable infrastructure, and leading technical engagements from initial scoping through delivery.
+Enterprise Engineer at Strategic Communications, working across contracting, pre-sales, post-sales, consulting, and product development. Previously a Solutions Architect at AWS for 3.5 years (Q1 2024 All-Star), where I specialized in cloud, AI, data, and security for enterprise and public sector customers. I hold 17 multi-cloud certifications across AWS, GCP, and Azure, and I have hands-on experience building production RAG systems, designing scalable infrastructure, and leading technical engagements from initial scoping through delivery.
 
 Before AWS, I served as a Cloud Architect at Accenture Federal Services and led a market research team at Addrex, Inc. I studied Information Systems and Operations Management at George Mason University.
 
@@ -40,11 +40,11 @@ Before AWS, I served as a Cloud Architect at Accenture Federal Services and led 
 
 ## Certifications
 
-![AWS Certified](https://img.shields.io/badge/AWS-11x_Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Certified](https://img.shields.io/badge/AWS-12x_Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP Certified](https://img.shields.io/badge/GCP-3x_Certified-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Azure Certified](https://img.shields.io/badge/Azure-2x_Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-**AWS:** Solutions Architect Professional • Machine Learning Specialty • Database Specialty • Security Specialty • 7 more
+**AWS:** Solutions Architect Professional • Generative AI Developer Professional • Machine Learning Engineer Associate • Security Specialty • Machine Learning Specialty • Database Specialty • 6 more
 
 **GCP:** Associate Cloud Engineer • Cloud Digital Leader • Generative AI Leader
 
