@@ -44,7 +44,7 @@ Before AWS, I served as a Cloud Architect at Accenture Federal Services and led 
 ![GCP Certified](https://img.shields.io/badge/GCP-3x_Certified-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Azure Certified](https://img.shields.io/badge/Azure-2x_Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-**AWS:** Solutions Architect Professional • Generative AI Developer Professional • Machine Learning Engineer Associate • Security Specialty • Machine Learning Specialty • Database Specialty • 6 more
+**AWS:** Solutions Architect Professional • Generative AI Developer Professional • Machine Learning Engineer Associate • Security Specialty • Machine Learning Specialty • Database Specialty • Solutions Architect Associate • Developer Associate • SysOps Administrator Associate • CloudOps Engineer Associate • AI Practitioner • Cloud Practitioner
 
 **GCP:** Associate Cloud Engineer • Cloud Digital Leader • Generative AI Leader
 
