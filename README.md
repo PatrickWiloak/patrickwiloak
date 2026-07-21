@@ -21,7 +21,7 @@
 
 Solutions Architect at Strategic Communications, supporting federal and SLED clients across cloud procurement, migration, and modernization through a 170+ partner ecosystem. I lead product development for Justice and Public Safety clients - architecting CJIS-compliant AWS GovCloud solutions for law enforcement agencies - and drive agentic engineering adoption across the organization. Alongside that I run [Nobler Works](https://noblerworks.com/) (see below).
 
-Before this I spent 3.5 years as a Solutions Architect at AWS (two Quarterly All-Star awards, top 1% of field) working with public sector, federal partners, and the Intelligence Community, where I drove early RAG enablement on SageMaker/OpenSearch, led Bedrock and SageMaker workshops, and co-published two AWS technical blogs. I hold 18 multi-cloud certifications across AWS, GCP, and Azure - part of 60 total certifications and accreditations - with hands-on experience building production RAG and agentic systems, designing scalable infrastructure, and leading technical engagements from scoping through delivery.
+Before this I spent 3.5 years as a Solutions Architect at AWS (Quarterly All-Star award, top 1% of field) working with public sector, federal partners, and the Intelligence Community, where I drove early RAG enablement on SageMaker/OpenSearch, led Bedrock and SageMaker workshops, and co-published two AWS technical blogs. I hold 18 multi-cloud certifications across AWS, GCP, and Azure - part of 60 total certifications and accreditations - with hands-on experience building production RAG and agentic systems, designing scalable infrastructure, and leading technical engagements from scoping through delivery.
 
 **Experience**
 - **Strategic Communications** - Solutions Architect (2026-Present)
@@ -29,7 +29,7 @@ Before this I spent 3.5 years as a Solutions Architect at AWS (two Quarterly All
 - **AWS** - Solutions Architect II, Federal Partners (2024-2025)
 - **AWS** - Solutions Architect, Public Sector (2022-2024)
 - **AWS** - Associate Solutions Architect (2022)
-- **Accenture Federal Services** - Cloud Architect (2021-2022)
+- **Accenture Federal Services** - Cloud Architect (Dec 2021 - Jan 2022)
 - **Addrex, Inc.** - Technical Market Research Team Lead (2017-2020)
 
 ## What I'm Building
