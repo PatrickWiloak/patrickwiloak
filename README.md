@@ -13,7 +13,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/patrickwiloak)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@patrickwiloak)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=500&duration=3000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Founder+%40+Nobler+Works;Previously+at+AWS+(Solutions+Architect);Full+Stack+Developer;Product+Developer;Agentic+AI+Engineer;Go-To-Market+Strategist;Cloud+%2B+AI+%2B+Data+%2B+Security;Multi+Cloud+Architect;Problem+Solver)](https://git.io/typing-svg)
+[![IRONSIGHT stars](https://img.shields.io/github/stars/NoblerWorks-HQ/IRONSIGHT?style=for-the-badge&label=IRONSIGHT%20%C2%B7%20OSINT%20command%20center&color=005571&logo=github)](https://github.com/NoblerWorks-HQ/IRONSIGHT)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=500&duration=3000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Founder+%40+Nobler+Works;Creator+of+IRONSIGHT+(640%2B+stars);Previously+at+AWS+(Solutions+Architect);Agentic+AI+Engineer;RAG+%2B+MCP+Architect;Cloud+%2B+AI+%2B+Data+%2B+Security;Multi+Cloud+Architect;Product+Developer)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,7 +23,7 @@
 
 Solutions Architect at Strategic Communications, supporting federal and SLED clients across cloud procurement, migration, and modernization through a 170+ partner ecosystem. I lead product development for Justice and Public Safety clients - architecting CJIS-compliant AWS GovCloud solutions for law enforcement agencies - and drive agentic engineering adoption across the organization. Alongside that I run [Nobler Works](https://noblerworks.com/) (see below).
 
-Before this I spent 3.5 years as a Solutions Architect at AWS (Quarterly All-Star award, top 1% of field) working with public sector, federal partners, and the Intelligence Community, where I drove early RAG enablement on SageMaker/OpenSearch, led Bedrock and SageMaker workshops, and co-published two AWS technical blogs. I hold 18 multi-cloud certifications across AWS, GCP, and Azure - part of 60 total certifications and accreditations - with hands-on experience building production RAG and agentic systems, designing scalable infrastructure, and leading technical engagements from scoping through delivery.
+Before this I spent 3.5 years as a Solutions Architect at AWS (Quarterly All-Star award, top 1% of field) working with public sector, federal partners, and the Intelligence Community, where I drove early RAG enablement on SageMaker/OpenSearch, led Bedrock and SageMaker workshops, and co-published two AWS technical blogs. I hold 18 multi-cloud certifications across AWS, GCP, and Azure - part of 59 total certifications and accreditations - with hands-on experience building production RAG and agentic systems, designing scalable infrastructure, and leading technical engagements from scoping through delivery.
 
 **Experience**
 - **Strategic Communications** - Solutions Architect (2026-Present)
@@ -132,7 +134,7 @@ Active territory spanning New York, Connecticut, Vermont, Maryland, West Virgini
 - Azure Fundamentals
 
 <details>
-<summary><b>All 60 certifications and accreditations</b> (click to expand)</summary>
+<summary><b>All 59 certifications and accreditations</b> (click to expand)</summary>
 
 <br>
 
@@ -161,8 +163,13 @@ Active territory spanning New York, Connecticut, Vermont, Maryland, West Virgini
 - Databricks Fundamentals Accreditation
 - Splunk Accredited Technical Selling Foundations
 - Elastic Accredited Partner Solutions Architect
-- Elastic Accredited Sales Engineer: Search, Security, Observability
-- Elastic Accredited Sales Specialist: Search, Security, Observability, GenAI
+- Elastic Accredited Sales Engineer: Search
+- Elastic Accredited Sales Engineer: Security
+- Elastic Accredited Sales Engineer: Observability
+- Elastic Accredited Sales Specialist: Search
+- Elastic Accredited Sales Specialist: Security
+- Elastic Accredited Sales Specialist: Observability
+- Elastic Accredited Sales Specialist: GenAI
 - Elastic Fundamentals Accredited
 
 **AWS Partner Accreditations** (7)
@@ -174,9 +181,11 @@ Active territory spanning New York, Connecticut, Vermont, Maryland, West Virgini
 - SAP on AWS (Technical)
 - SAP on AWS (Business)
 
-**Other**
+**Other** (4)
 - Pragmatic Marketing Certified - Level 3 (Pragmatic Institute)
 - RIPE Database (RIPE NCC)
+- Managing Meetings (LinkedIn)
+- Meeting Facilitation (LinkedIn)
 
 </details>
 
