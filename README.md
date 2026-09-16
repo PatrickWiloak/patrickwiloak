@@ -23,7 +23,7 @@
 
 Solutions Architect at Strategic Communications, supporting federal and SLED clients across cloud procurement, migration, and modernization through a 170+ partner ecosystem. I lead product development for Justice and Public Safety clients - architecting CJIS-compliant AWS GovCloud solutions for law enforcement agencies - and drive agentic engineering adoption across the organization. Alongside that I run [Nobler Works](https://noblerworks.com/) (see below).
 
-Before this I spent 3.5 years as a Solutions Architect at AWS (Quarterly All-Star award, top 1% of field) working with public sector, federal partners, and the Intelligence Community, where I drove early RAG enablement on SageMaker/OpenSearch, led Bedrock and SageMaker workshops, and co-published two AWS technical blogs. I hold 18 multi-cloud certifications across AWS, GCP, and Azure - part of 59 total certifications and accreditations - with hands-on experience building production RAG and agentic systems, designing scalable infrastructure, and leading technical engagements from scoping through delivery.
+Before this I spent 3.5 years as a Solutions Architect at AWS (Quarterly All-Star award, top 1% of field) working with public sector, federal partners, and the Intelligence Community, where I drove early RAG enablement on SageMaker/OpenSearch, led Bedrock and SageMaker workshops, and co-published two AWS technical blogs. I hold 18 multi-cloud certifications across AWS, GCP, and Azure - part of 60 total certifications and accreditations - with hands-on experience building production RAG and agentic systems, designing scalable infrastructure, and leading technical engagements from scoping through delivery.
 
 **Experience**
 - **Strategic Communications** - Solutions Architect (2026-Present)
@@ -134,7 +134,7 @@ Active territory spanning New York, Connecticut, Vermont, Maryland, West Virgini
 - Azure Fundamentals
 
 <details>
-<summary><b>All 59 certifications and accreditations</b> (click to expand)</summary>
+<summary><b>All 60 certifications and accreditations</b> (click to expand)</summary>
 
 <br>
 
@@ -158,9 +158,10 @@ Active territory spanning New York, Connecticut, Vermont, Maryland, West Virgini
 - AI Fluency for Students
 - AI Fluency for Nonprofits
 
-**Data, Search & Observability** (12)
+**Data, Search & Observability** (13)
 - SnowPro Associate: Platform (Snowflake)
 - Databricks Fundamentals Accreditation
+- Databricks Generative AI Fundamentals
 - Splunk Accredited Technical Selling Foundations
 - Elastic Accredited Partner Solutions Architect
 - Elastic Accredited Sales Engineer: Search
