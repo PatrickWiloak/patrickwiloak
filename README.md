@@ -15,7 +15,7 @@
 
 [![IRONSIGHT stars](https://img.shields.io/github/stars/NoblerWorks-HQ/IRONSIGHT?style=for-the-badge&label=IRONSIGHT%20%C2%B7%20OSINT%20command%20center&color=005571&logo=github)](https://github.com/NoblerWorks-HQ/IRONSIGHT)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=500&duration=3000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Founder+%40+Nobler+Works;Creator+of+IRONSIGHT+(640%2B+stars);Previously+at+AWS+(Solutions+Architect);Agentic+AI+Engineer;RAG+%2B+MCP+Architect;Cloud+%2B+AI+%2B+Data+%2B+Security;Multi+Cloud+Architect;Product+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=500&duration=3000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Founder+%40+Nobler+Works;Creator+of+IRONSIGHT+(650%2B+stars);Previously+at+AWS+(Solutions+Architect);Agentic+AI+Engineer;RAG+%2B+MCP+Architect;Cloud+%2B+AI+%2B+Data+%2B+Security;Multi+Cloud+Architect;Product+Developer)](https://git.io/typing-svg)
 
 </div>
 
@@ -37,6 +37,14 @@ Before this I spent 3.5 years as a Solutions Architect at AWS (Quarterly All-Sta
 ## What I'm Building
 
 My cofounder and I bootstrapped **Nobler Works** to profitability within 3 months - no investors, no patrons, no sponsors - and have since shipped 10+ products across SaaS, B2B growth tools, and open-source intelligence. We do product development, custom solutions, automation, analytics, observability, cloud cost optimization, and IP transfer for startups and commercial clients, and we treat clients as partners: revenue-sharing offerings over pure vendor work.
+
+**Follow Nobler Works:**
+[![Website](https://img.shields.io/badge/noblerworks.com-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://noblerworks.com/)
+[![X](https://img.shields.io/badge/@Nobler__Works-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Nobler_Works)
+[![YouTube](https://img.shields.io/badge/@NoblerWorks-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@NoblerWorks)
+[![TikTok](https://img.shields.io/badge/@noblerworks-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@noblerworks)
+[![Threads](https://img.shields.io/badge/@noblerworks-000000?style=flat-square&logo=threads&logoColor=white)](https://www.threads.com/@noblerworks)
+[![GitHub](https://img.shields.io/badge/NoblerWorks--HQ-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NoblerWorks-HQ)
 
 ### 3rd-Party Platforms (Partner Builds)
 
@@ -65,14 +73,17 @@ Nobler Works' own products - built, owned, and operated in-house.
 
 [![IRONSIGHT stars](https://img.shields.io/github/stars/NoblerWorks-HQ/IRONSIGHT?style=for-the-badge&label=IRONSIGHT&color=005571&logo=github)](https://github.com/NoblerWorks-HQ/IRONSIGHT)
 [![zero-to-hero stars](https://img.shields.io/github/stars/PatrickWiloak/cloud-data-ai-security-zero-to-hero?style=for-the-badge&label=Cloud%20Zero%20to%20Hero&color=FF9900&logo=github)](https://github.com/PatrickWiloak/cloud-data-ai-security-zero-to-hero)
+[![WarGames stars](https://img.shields.io/github/stars/NoblerWorks-HQ/WarGames?style=for-the-badge&label=War%20Games&color=c0392b&logo=github)](https://github.com/NoblerWorks-HQ/WarGames)
 
-| Repo | |
-|---|---|
-| **[IRONSIGHT](https://github.com/NoblerWorks-HQ/IRONSIGHT)** | Real-time OSINT command center - 50+ live open-source intelligence feeds (news, Telegram, military aircraft and naval tracking, missile alerts, prediction and defense markets) in one dashboard. No API keys. Next.js + TypeScript |
-| **[cloud-data-ai-security-zero-to-hero](https://github.com/PatrickWiloak/cloud-data-ai-security-zero-to-hero)** | Cloud + Data + AI + Security from zero to hero - 122+ certs across 22 providers, 37 plain-English concepts, 15 hands-on builds, cross-cloud and AI service comparisons |
-| **[WarGames](https://github.com/NoblerWorks-HQ/WarGames)** | AI-powered geopolitical strategy simulation - NATO, Russia, and China compete on an interactive map, each faction commanded by an LLM (Claude, Gemini, or GPT) |
-| **[genai-research-papers-summarized](https://github.com/PatrickWiloak/genai-research-papers-summarized)** | For folks who don't have time to read 220,000+ words of research 📚 |
-| **[bedrock-agents-rag-s3-tutorial](https://github.com/PatrickWiloak/bedrock-agents-rag-s3-tutorial)** | AWS Bedrock RAG tutorial - Q&A agent with Knowledge Bases and S3 Vectors, CDK deployment, web UI, debugging tools |
+| Repo | | |
+|---|---|---|
+| **[IRONSIGHT](https://github.com/NoblerWorks-HQ/IRONSIGHT)** | Real-time OSINT command center - 50+ live open-source intelligence feeds (news, Telegram, military aircraft and naval tracking, missile alerts, prediction and defense markets) in one dashboard. No API keys. Next.js + TypeScript | **[Website →](https://noblerworks-hq.github.io/IRONSIGHT/)** |
+| **[cloud-data-ai-security-zero-to-hero](https://github.com/PatrickWiloak/cloud-data-ai-security-zero-to-hero)** | Cloud + Data + AI + Security from zero to hero - 149 certs across 27 providers, 53 plain-English concepts, 15 hands-on builds, cross-cloud and AI service comparisons | **[Website →](https://patrickwiloak.github.io/cloud-data-ai-security-zero-to-hero/)** |
+| **[WarGames](https://github.com/NoblerWorks-HQ/WarGames)** | AI-powered geopolitical strategy simulation - NATO, Russia, and China compete on an interactive map, each faction commanded by an LLM (Claude, Gemini, or GPT) | **[Website →](https://noblerworks-hq.github.io/WarGames/)** |
+| **[genai-research-papers-summarized](https://github.com/PatrickWiloak/genai-research-papers-summarized)** | Everything AI, summarized - 156 landmark papers and 31 explainers in plain language, for folks who don't have time to read 350,000+ words of research 📚 | **[Website →](https://patrickwiloak.github.io/genai-research-papers-summarized/)** |
+| **[minecraft-agentic](https://github.com/NoblerWorks-HQ/minecraft-agentic)** | A crew of four LLM-driven Mineflayer bots builds Minecraft worlds live in your browser - no Minecraft account or API key needed | [Repo →](https://github.com/NoblerWorks-HQ/minecraft-agentic) |
+| **[bedrock-rag-s3-vectors-tutorial](https://github.com/PatrickWiloak/bedrock-rag-s3-vectors-tutorial)** | AWS Bedrock RAG tutorial - document Q&A on Knowledge Bases + S3 Vectors, CDK or Terraform, Next.js UI with citations | [Repo →](https://github.com/PatrickWiloak/bedrock-rag-s3-vectors-tutorial) |
+| **[proper-distance-running-training-guidance](https://github.com/PatrickWiloak/proper-distance-running-training-guidance)** | Evidence-based distance running guide - training principles, HR and VDOT zones, twelve 5K-to-marathon plans | **[Read online →](https://achilles.fit/guides)** |
 
 ## Tech Stack
 
