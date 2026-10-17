@@ -23,7 +23,7 @@
 
 Solutions Architect at Strategic Communications, supporting federal and SLED clients across cloud procurement, migration, and modernization through a 170+ partner ecosystem. I lead product development for Justice and Public Safety clients - architecting CJIS-compliant AWS GovCloud solutions for law enforcement agencies - and drive agentic engineering adoption across the organization. Alongside that I run [Nobler Works](https://noblerworks.com/) (see below).
 
-Before this I spent 3.5 years as a Solutions Architect at AWS (Quarterly All-Star award, top 1% of field) working with public sector, federal partners, and the Intelligence Community, where I drove early RAG enablement on SageMaker/OpenSearch, led Bedrock and SageMaker workshops, and co-published two AWS technical blogs. I hold 19 multi-cloud certifications across AWS, GCP, and Azure - part of 62 total certifications and accreditations - with hands-on experience building production RAG and agentic systems, designing scalable infrastructure, and leading technical engagements from scoping through delivery.
+Before this I spent 3.5 years as a Solutions Architect at AWS (Quarterly All-Star award, top 1% of field) working with public sector, federal partners, and the Intelligence Community, where I drove early RAG enablement on SageMaker/OpenSearch, led Bedrock and SageMaker workshops, and co-published two AWS technical blogs. I hold 20 multi-cloud certifications across AWS, GCP, and Azure - part of 65 total certifications and accreditations - with hands-on experience building production RAG and agentic systems, designing scalable infrastructure, and leading technical engagements from scoping through delivery.
 
 **Experience**
 - **Strategic Communications** - Solutions Architect (2026-Present)
@@ -114,16 +114,17 @@ Active territory spanning New York, Connecticut, Vermont, Maryland, West Virgini
 
 ## Certifications
 
-![AWS Certified](https://img.shields.io/badge/AWS-14x_Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Certified](https://img.shields.io/badge/AWS-15x_Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP Certified](https://img.shields.io/badge/GCP-3x_Certified-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Azure Certified](https://img.shields.io/badge/Azure-2x_Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-18x_Certified-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-19x_Certified-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Elastic](https://img.shields.io/badge/Elastic-9x_Accredited-005571?style=for-the-badge&logo=elastic&logoColor=white)
 
-**AWS** (14)
+**AWS** (15)
 - Solutions Architect Professional
 - DevOps Engineer Professional
 - Generative AI Developer Professional
+- AI Business Strategist
 - Machine Learning Engineer Associate
 - Security Specialty
 - Machine Learning Specialty
@@ -146,11 +147,12 @@ Active territory spanning New York, Connecticut, Vermont, Maryland, West Virgini
 - Azure Fundamentals
 
 <details>
-<summary><b>All 62 certifications and accreditations</b> (click to expand)</summary>
+<summary><b>All 65 certifications and accreditations</b> (click to expand)</summary>
 
 <br>
 
-**AI & Agents - Anthropic** (18)
+**AI & Agents - Anthropic** (19)
+- Claude Certified Associate - Foundations
 - Claude Code in Action
 - Claude Code 101
 - Claude 101
@@ -195,7 +197,8 @@ Active territory spanning New York, Connecticut, Vermont, Maryland, West Virgini
 - SAP on AWS (Technical)
 - SAP on AWS (Business)
 
-**Other** (4)
+**Other** (5)
+- Black Belt AI Fundamentals Stage 1 (Cisco)
 - Pragmatic Marketing Certified - Level 3 (Pragmatic Institute)
 - RIPE Database (RIPE NCC)
 - Managing Meetings (LinkedIn)
