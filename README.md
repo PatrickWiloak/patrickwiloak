@@ -60,10 +60,19 @@ Platforms we architected, built, and operate **in partnership** with domain expe
 
 Nobler Works' own products - built, owned, and operated in-house.
 
+<div align="center">
+
+<a href="https://gitgood.dev/?utm_source=github&utm_medium=readme&utm_campaign=patrick-profile&utm_content=banner"><img src="https://gitgood.dev/og-image.png" alt="gitGood.dev" width="270"></a>
+<a href="https://semantix.chat/?utm_source=github&utm_medium=readme&utm_campaign=patrick-profile&utm_content=banner"><img src="https://semantix.chat/og/home.png" alt="Semantix.chat" width="270"></a>
+<a href="https://achilles.fit/?utm_source=github&utm_medium=readme&utm_campaign=patrick-profile&utm_content=banner"><img src="https://achilles.fit/og/home.png" alt="Achilles.fit" width="270"></a>
+
+</div>
+
 | Product | |
 |---|---|
-| [gitGood.dev](https://gitgood.dev) | AI-powered tech interview prep - 1000+ questions, mock interviews, coding challenges, verified skill badges |
-| [Achilles.fit](https://achilles.fit) | Fitness coaching SaaS - deterministic training algorithm with 76M combinations, agentic AI coach, multi-sport adaptive progression |
+| [gitGood.dev](https://gitgood.dev/?utm_source=github&utm_medium=readme&utm_campaign=patrick-profile&utm_content=table) | AI-powered tech career training - practice questions, coding challenges, system design, AI mock interviews, cert practice exams and verified skill badges |
+| [Semantix.chat](https://semantix.chat/?utm_source=github&utm_medium=readme&utm_campaign=patrick-profile&utm_content=table) | Immersive AI language tutor - real conversations, spaced repetition, and a levelled learning path |
+| [Achilles.fit](https://achilles.fit/?utm_source=github&utm_medium=readme&utm_campaign=patrick-profile&utm_content=table) | Fitness coaching SaaS - deterministic training algorithm with 76M combinations, agentic AI coach, multi-sport adaptive progression |
 | [EpsteinExplorer.xyz](https://epsteinexplorer.xyz) | Makes every publicly released Epstein court document, email, and flight log searchable, with relationship mapping |
 | [UFOExplorer.xyz](https://ufoexplorer.xyz) | Platform for analyzing and contributing to UFO/UAP sightings and government disclosure efforts |
 
@@ -72,15 +81,18 @@ Nobler Works' own products - built, owned, and operated in-house.
 ## Open Source
 
 [![IRONSIGHT stars](https://img.shields.io/github/stars/NoblerWorks-HQ/IRONSIGHT?style=for-the-badge&label=IRONSIGHT&color=005571&logo=github)](https://github.com/NoblerWorks-HQ/IRONSIGHT)
-[![zero-to-hero stars](https://img.shields.io/github/stars/PatrickWiloak/cloud-data-ai-security-zero-to-hero?style=for-the-badge&label=Cloud%20Zero%20to%20Hero&color=FF9900&logo=github)](https://github.com/PatrickWiloak/cloud-data-ai-security-zero-to-hero)
+[![Cloud Zero to Hero stars](https://img.shields.io/github/stars/PatrickWiloak/cloud-zero-to-hero?style=for-the-badge&label=Cloud%20Zero%20to%20Hero&color=FF9900&logo=github)](https://github.com/PatrickWiloak/cloud-zero-to-hero)
+[![AI Zero to Hero stars](https://img.shields.io/github/stars/PatrickWiloak/ai-zero-to-hero?style=for-the-badge&label=AI%20Zero%20to%20Hero&color=D97757&logo=github)](https://github.com/PatrickWiloak/ai-zero-to-hero)
 [![WarGames stars](https://img.shields.io/github/stars/NoblerWorks-HQ/WarGames?style=for-the-badge&label=War%20Games&color=c0392b&logo=github)](https://github.com/NoblerWorks-HQ/WarGames)
 
 | Repo | | |
 |---|---|---|
-| **[IRONSIGHT](https://github.com/NoblerWorks-HQ/IRONSIGHT)** | Real-time OSINT command center - 50+ live open-source intelligence feeds (news, Telegram, military aircraft and naval tracking, missile alerts, prediction and defense markets) in one dashboard. No API keys. Next.js + TypeScript | **[Website →](https://noblerworks-hq.github.io/IRONSIGHT/)** |
-| **[cloud-data-ai-security-zero-to-hero](https://github.com/PatrickWiloak/cloud-data-ai-security-zero-to-hero)** | Cloud + Data + AI + Security from zero to hero - 149 certs across 27 providers, 53 plain-English concepts, 15 hands-on builds, cross-cloud and AI service comparisons | **[Website →](https://patrickwiloak.github.io/cloud-data-ai-security-zero-to-hero/)** |
-| **[WarGames](https://github.com/NoblerWorks-HQ/WarGames)** | AI-powered geopolitical strategy simulation - NATO, Russia, and China compete on an interactive map, each faction commanded by an LLM (Claude, Gemini, or GPT) | **[Website →](https://noblerworks-hq.github.io/WarGames/)** |
-| **[genai-research-papers-summarized](https://github.com/PatrickWiloak/genai-research-papers-summarized)** | Everything AI, summarized - 156 landmark papers and 31 explainers in plain language, for folks who don't have time to read 350,000+ words of research 📚 | **[Website →](https://patrickwiloak.github.io/genai-research-papers-summarized/)** |
+| **[IRONSIGHT](https://github.com/NoblerWorks-HQ/IRONSIGHT)** | Real-time OSINT command center - 50+ live open-source intelligence feeds (news, Telegram, military aircraft and naval tracking, missile alerts, prediction and defense markets) in one dashboard. No API keys. Next.js + TypeScript | **[Website →](https://ironsight.noblerworks.com/)** |
+| **[AI Zero to Hero](https://github.com/PatrickWiloak/ai-zero-to-hero)** | Everything AI in one place - learn, use it at work, build, govern, get hired - plus 156 landmark papers and 31 explainers in plain language | **[Website →](https://ai.noblerworks.com/)** |
+| **[Cloud Zero to Hero](https://github.com/PatrickWiloak/cloud-zero-to-hero)** | AWS, Azure, GCP, Kubernetes, DevOps and FinOps - 72 cert guides across 16 providers, plain-English concepts, hands-on builds | **[Website →](https://cloud.noblerworks.com/)** |
+| **[Data Zero to Hero](https://github.com/PatrickWiloak/data-zero-to-hero)** | Data engineering, analytics and databases - 24 data certs, concepts, and a path to data engineer, analytics engineer or DBA | **[Website →](https://data.noblerworks.com/)** |
+| **[Security Zero to Hero](https://github.com/PatrickWiloak/security-zero-to-hero)** | Zero to security engineer - 24 security certs, compliance guides (SOC 2, HIPAA, PCI DSS, GDPR, FedRAMP), zero trust and IAM | **[Website →](https://security.noblerworks.com/)** |
+| **[WarGames](https://github.com/NoblerWorks-HQ/WarGames)** | AI-powered geopolitical strategy simulation - NATO, Russia, and China compete on an interactive map, each faction commanded by an LLM (Claude, Gemini, or GPT) | **[Website →](https://wargames.noblerworks.com/)** |
 | **[minecraft-agentic](https://github.com/NoblerWorks-HQ/minecraft-agentic)** | A crew of four LLM-driven Mineflayer bots builds Minecraft worlds live in your browser - no Minecraft account or API key needed | [Repo →](https://github.com/NoblerWorks-HQ/minecraft-agentic) |
 | **[bedrock-rag-s3-vectors-tutorial](https://github.com/PatrickWiloak/bedrock-rag-s3-vectors-tutorial)** | AWS Bedrock RAG tutorial - document Q&A on Knowledge Bases + S3 Vectors, CDK or Terraform, Next.js UI with citations | [Repo →](https://github.com/PatrickWiloak/bedrock-rag-s3-vectors-tutorial) |
 | **[proper-distance-running-training-guidance](https://github.com/PatrickWiloak/proper-distance-running-training-guidance)** | Evidence-based distance running guide - training principles, HR and VDOT zones, twelve 5K-to-marathon plans | **[Read online →](https://achilles.fit/guides)** |
